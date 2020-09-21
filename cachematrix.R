@@ -5,6 +5,9 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  a<-45
+  
+  
 }
 
 
